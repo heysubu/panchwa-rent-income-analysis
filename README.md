@@ -292,11 +292,6 @@ Tenant Charged: Consumption-based
 4. Modify filters
 5. Applies to all sheets
 
-## 📞 Contact
-
-- 🐙 [**GitHub**](https://github.com/heysubu)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
-
 ## 📄 License
 
 MIT License - Free to use and modify
